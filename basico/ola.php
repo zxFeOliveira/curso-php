@@ -2,5 +2,9 @@
 
 <?php 
 echo 'Olá ';
-echo 'Mundo!'
+echo 'Mundo!';
+
+echo '<br>';
+
+phpinfo();
 ?>

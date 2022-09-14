@@ -8,7 +8,7 @@ body.exercicio {
 }
 
 .principal {
-    height: calc(100vh - 240);
+    height: calc(100vh - 240px);
 }
 
 .navegacao {
@@ -46,3 +46,4 @@ body.exercicio {
     border-bottom: 1px solid #999;
     margin-bottom: 20px;
 }
+
